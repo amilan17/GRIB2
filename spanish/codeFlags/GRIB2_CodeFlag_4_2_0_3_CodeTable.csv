@@ -1,0 +1,36 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,0,,Presión,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,1,,Presión reducida al nivel medio del mar,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,2,,Tendencia barométrica,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,3,,Altura de referencia en atmósfera tipo (OACI),,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,4,,Geopotencial,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,5,,Altura geopotencial,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,6,,Altura geométrica,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,7,,Desviación estándar de la altura,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,8,,Anomalía de la presión,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,9,,Anomalía de altura geopotencial,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,10,,Densidad,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,11,,Regulación del altímetro,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,12,,Espesor,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,13,,Altitud barométrica,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,14,,Altitud densimétrica,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,15,,Altura geopotencial en 5 ondas,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,16,,Flujo zonal del esfuerzo de onda de gravedad,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,17,,Flujo meridional del esfuerzo de onda de gravedad,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,18,,Altura de la capa límite planetaria,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,19,,Anomalía de la altura geopotencial en 5 ondas,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,20,,Desviación estándar de la orografía a escala subreticular,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,21,,Ángulo de la orografía a escala subreticular,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,22,,Pendiente de la orografía de escala subreticular,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,23,,Disipación de la onda gravitacional,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,24,,Anisotropía de la orografía a escala subreticular,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,25,,Logaritmo natural de la presión en Pa,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,26,,Presión Exner,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,27,,Flujo másico de las corrientes ascendentes,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,28,,Flujo másico de las corrientes descendentes,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,29,,Tasa de arrastre hacia el exterior de las corrientes ascendentes,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,30,,Tasa de arrastre hacia el exterior de las corrientes descendentes,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,31,,Componente no equilibrado del logaritmo de la presiónen superficie,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,32-191,,Reservados,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,192-254,,Reservados para uso local,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 3: masa",,255,,Valor faltante,,,,Operational

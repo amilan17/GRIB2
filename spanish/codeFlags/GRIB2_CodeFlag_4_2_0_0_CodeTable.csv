@@ -1,0 +1,36 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,0,,Temperatura,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,1,,Temperatura virtual,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,2,,Temperatura potencial,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,3,,Temperatura pseudo-adiabática potencial o temperatura potencial equivalente,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,4,,Temperatura máxima*,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,5,,Temperatura mínima*,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,6,,Temperatura del punto de rocío,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,7,,Depresión del punto de rocío (o déficit),,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,8,,Gradiente vertical de temperatura,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,9,,Anomalía de temperatura,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,10,,Flujo neto del calor latente,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,11,,Flujo neto del calor sensible,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,12,,Índice térmico,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,13,,Factor de enfriamiento eólico,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,14,,Depresión mínima del punto de rocío*,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,15,,Temperatura virtual potencial,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,16,,Flujo de calor del cambio de fase de la nieve,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,17,,Temperatura pelicular,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,18,,Temperatura de nieve (cima de la nieve),,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,19,,Coeficiente de transferencia turbulenta de calor,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,20,,Coeficiente de difusión turbulenta de calor,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,21,,Temperatura aparente**,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,22,,Patrón de evolución de la temperatura debido a la radiación de onda corta,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,23,,Patrón de evolución de la temperatura debido a la radiación de onda larga,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,24,,Patrón de evolución de la temperatura debido a la radiación de onda corta en cielo despejado,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,25,,Patrón de evolución de la temperatura debido a la radiación de onda larga en cielo despejado,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,26,,Patrón de evolución de la temperatura debido a parametrización,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,27,,Temperatura de bulbo húmedo,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,28,,Componente no equilibrado de temperatura,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,29,,Advección de temperatura,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,30,,Flujo neto de calor latente debido a la evaporación,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,31,,Flujo neto de calor latente debido a la sublimación,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,32-191,,Reservados,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,192-254,,Reservados para uso local,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 0: temperatura",,255,,Valor faltante,,,,Operational

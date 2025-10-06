@@ -1,0 +1,20 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+"Campo de especialización 3 — Productos espaciales, categoría de parámetros 2: propiedades de las nubes",,0,,Probabilidad de cielo despejado,,,%,Operational
+"Campo de especialización 3 — Productos espaciales, categoría de parámetros 2: propiedades de las nubes",,1,,Temperatura de la cima de las nubes,,,K,Operational
+"Campo de especialización 3 — Productos espaciales, categoría de parámetros 2: propiedades de las nubes",,2,,Presión en la cima de las nubes,,,Pa,Operational
+"Campo de especialización 3 — Productos espaciales, categoría de parámetros 2: propiedades de las nubes",,3,,Tipo de nubes,,,Tabla de cifrado 4.218,Operational
+"Campo de especialización 3 — Productos espaciales, categoría de parámetros 2: propiedades de las nubes",,4,,Fase de las nubes,,,Tabla de cifrado 4.218,Operational
+"Campo de especialización 3 — Productos espaciales, categoría de parámetros 2: propiedades de las nubes",,5,,Profundidad óptica de las nubes,,,Numérica,Operational
+"Campo de especialización 3 — Productos espaciales, categoría de parámetros 2: propiedades de las nubes",,6,,Radio efectivo de las partículas de nube,,,m,Operational
+"Campo de especialización 3 — Productos espaciales, categoría de parámetros 2: propiedades de las nubes",,7,,Trayecto del agua líquida de las nubes,,,kg m-2,Operational
+"Campo de especialización 3 — Productos espaciales, categoría de parámetros 2: propiedades de las nubes",,8,,Trayecto del agua nevada de las nubes,,,kg m-2,Operational
+"Campo de especialización 3 — Productos espaciales, categoría de parámetros 2: propiedades de las nubes",,9,,Albedo de las nubes,,,Numérica,Operational
+"Campo de especialización 3 — Productos espaciales, categoría de parámetros 2: propiedades de las nubes",,10,,Emisividad de las nubes,,,Numérica,Operational
+"Campo de especialización 3 — Productos espaciales, categoría de parámetros 2: propiedades de las nubes",,11,,Coeficiente de profundidad óptica de absorción efectiva,,,Numérica,Operational
+"Campo de especialización 3 — Productos espaciales, categoría de parámetros 2: propiedades de las nubes",,30,,Costo de las mediciones,,,Numérica,Operational
+"Campo de especialización 3 — Productos espaciales, categoría de parámetros 2: propiedades de las nubes",,31,,Espesor óptico de las nubes de la capa superior,,,Numérica,Operational
+"Campo de especialización 3 — Productos espaciales, categoría de parámetros 2: propiedades de las nubes",,32,,Presión en la cima de las nubes de la capa superior,,,Pa,Operational
+"Campo de especialización 3 — Productos espaciales, categoría de parámetros 2: propiedades de las nubes",,33,,Radio terrestre efectivo de las nubes de la capa superior,,,m,Operational
+"Campo de especialización 3 — Productos espaciales, categoría de parámetros 2: propiedades de las nubes",,34,,Error en el espesor óptico de las nubes de la capa superior,,,Numérica,Operational
+"Campo de especialización 3 — Productos espaciales, categoría de parámetros 2: propiedades de las nubes",,35,,Error en la presión en la cima de las nubes de la capa superior,,,Pa,Operational
+"Campo de especialización 3 — Productos espaciales, categoría de parámetros 2: propiedades de las nubes",,36,,Error en el radio terrestre efectivo de las nubes de la capa superior,,,m,Operational

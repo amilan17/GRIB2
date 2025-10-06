@@ -1,0 +1,61 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Campo de especialización,0 — Productos meteorológicos,0,,Temperatura,,,,Operational
+Campo de especialización,0 — Productos meteorológicos,1,,Humedad,,,,Operational
+Campo de especialización,0 — Productos meteorológicos,2,,Impulso,,,,Operational
+Campo de especialización,0 — Productos meteorológicos,3,,Masa,,,,Operational
+Campo de especialización,0 — Productos meteorológicos,4,,Radiación de onda corta,,,,Operational
+Campo de especialización,0 — Productos meteorológicos,5,,Radiación de onda larga,,,,Operational
+Campo de especialización,0 — Productos meteorológicos,6,,Nubosidad,,,,Operational
+Campo de especialización,0 — Productos meteorológicos,7,,Índices de estabilidad termodinámica,,,,Operational
+Campo de especialización,0 — Productos meteorológicos,8,,Índices de estabilidad cinemática,,,,Operational
+Campo de especialización,0 — Productos meteorológicos,9,,Probabilidades de temperatura*,,,,Operational
+Campo de especialización,0 — Productos meteorológicos,10,,Probabilidades de humedad*,,,,Operational
+Campo de especialización,0 — Productos meteorológicos,11,,"Previsión de conjunto individual, de control y perturbada, para una superficie o capa horizontal durante un intervalo de tiempo continuo o discontinuo",,,,Operational
+Campo de especialización,0 — Productos meteorológicos,11,,Probabilidades de impulso*,,,,Operational
+Campo de especialización,0 — Productos meteorológicos,12,,Probabilidades de masa*,,,,Operational
+Campo de especialización,0 — Productos meteorológicos,13,,Aerosoles,,,,Operational
+Campo de especialización,0 — Productos meteorológicos,14,,"Gases en trazas (por ejemplo, ozono, CO₂)",,,,Operational
+Campo de especialización,0 — Productos meteorológicos,15,,Radar,,,,Operational
+Campo de especialización,0 — Productos meteorológicos,16,,Imágenes de radar previstas,,,,Operational
+Campo de especialización,0 — Productos meteorológicos,17,,Electrodinámica,,,,Operational
+Campo de especialización,0 — Productos meteorológicos,18,,Nuclear/radiología,,,,Operational
+Campo de especialización,0 — Productos meteorológicos,19,,Propiedades físicas de la atmósfera,,,,Operational
+Campo de especialización,0 — Productos meteorológicos,20,,Componentes químicos atmosféricos,,,,Operational
+Campo de especialización,0 — Productos meteorológicos,21–189,,Reservadas,,,,Operational
+Campo de especialización,0 — Productos meteorológicos,190,,Cadena CCITT IA5,,,,Operational
+Campo de especialización,0 — Productos meteorológicos,191,,Varios,,,,Operational
+Campo de especialización,0 — Productos meteorológicos,192–254,,Reservadas para uso local,,,,Operational
+Campo de especialización,0 — Productos meteorológicos,255,,Valor faltante,,,,Operational
+Campo de especialización,1 — Productos Hidrológicos,0,,Productos básicos de la hidrología,,,,Operational
+Campo de especialización,1 — Productos Hidrológicos,1,,Probabilidades de la hidrología,,,,Operational
+Campo de especialización,1 — Productos Hidrológicos,2,,Aguas interiores y propiedades de los sedimentos,,,,Operational
+Campo de especialización,1 — Productos Hidrológicos,3–191,,Reservadas,,,,Operational
+Campo de especialización,1 — Productos Hidrológicos,192–254,,Reservadas para uso local,,,,Operational
+Campo de especialización,1 — Productos Hidrológicos,255,,Valor faltante,,,,Operational
+Campo de especialización,2 — Productos para la superficie terrestre,0,,Vegetación/biomasa,,,,Operational
+Campo de especialización,2 — Productos para la superficie terrestre,1,,Productos especiales para la agricultura y el acuicultivo,,,,Operational
+Campo de especialización,2 — Productos para la superficie terrestre,2,,Productos relacionados con el transporte,,,,Operational
+Campo de especialización,2 — Productos para la superficie terrestre,3,,Productos relacionados con los suelos,,,,Operational
+Campo de especialización,2 — Productos para la superficie terrestre,4,,Productos relativos a condiciones meteorológicas favorables a los incendios,,,,Operational
+Campo de especialización,2 — Productos para la superficie terrestre,5–191,,Reservadas,,,,Operational
+Campo de especialización,2 — Productos para la superficie terrestre,192–254,,Reservadas para uso local,,,,Operational
+Campo de especialización,2 — Productos para la superficie terrestre,255,,Valor faltante,,,,Operational
+Campo de especialización,3 — Productos espaciales,0,,Productos de formato de imagen (véase la nota 1),,,,Operational
+Campo de especialización,3 — Productos espaciales,1,,Productos cuantitativos (véase la nota 2),,,,Operational
+Campo de especialización,3 — Productos espaciales,2,,Propiedades de las nubes,,,,Operational
+Campo de especialización,3 — Productos espaciales,3,,Condiciones de las reglas de vuelo,,,,Operational
+Campo de especialización,3 — Productos espaciales,4,,Ceniza volcánica,,,,Operational
+Campo de especialización,3 — Productos espaciales,5,,Temperatura en la superficie del mar,,,,Operational
+Campo de especialización,3 — Productos espaciales,6,,Radiación solar,,,,Operational
+Campo de especialización,3 — Productos espaciales,7–191,,Reservadas,,,,Operational
+Campo de especialización,3 — Productos espaciales,192–254,,Reservadas para uso local,,,,Operational
+Campo de especialización,3 — Productos espaciales,255,,Valor faltante,,,,Operational
+Campo de especialización,10 — Productos oceanográficos,0,,Olas,,,,Operational
+Campo de especialización,10 — Productos oceanográficos,1,,Corrientes,,,,Operational
+Campo de especialización,10 — Productos oceanográficos,2,,Hielo,,,,Operational
+Campo de especialización,10 — Productos oceanográficos,3,,Propiedades de la superficie,,,,Operational
+Campo de especialización,10 — Productos oceanográficos,4,,Propiedades subsuperficiales,,,,Operational
+Campo de especialización,10 — Productos oceanográficos,5–190,,Reservadas,,,,Operational
+Campo de especialización,10 — Productos oceanográficos,191,,Varios,,,,Operational
+Campo de especialización,10 — Productos oceanográficos,192–254,,Reservadas para uso local,,,,Operational
+Campo de especialización,10 — Productos oceanográficos,255,,Valor faltante,,,,Operational

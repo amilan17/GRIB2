@@ -1,0 +1,8 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 191: miscelánea",,0,,Segundos antes del tiempo de referencia inicial (definido en la Sección 1),,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 191: miscelánea",,1,,Latitud geográfica,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 191: miscelánea",,2,,Longitud geográfica,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 191: miscelánea",,3,,Días transcurridos desde la última observación,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 191: miscelánea",,4-191,,Reservados,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 191: miscelánea",,192-254,,Reservados para uso local,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 191: miscelánea",,255,,Valor faltante,,,,Operational

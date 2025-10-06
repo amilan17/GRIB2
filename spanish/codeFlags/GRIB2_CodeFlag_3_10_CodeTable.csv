@@ -1,0 +1,8 @@
+Title_es,CodeFlag,MeaningParameterDescription_es,SubTitle_es,Value,Note_es,noteIDs,UnitComments_es,Status
+Tabla de banderines 3.10 — Modo de exploración aplicado a un rombo,1,"Exploración de los puntos en la dirección +i, es decir, del polo al ecuador",,,,,,Operational
+Tabla de banderines 3.10 — Modo de exploración aplicado a un rombo,1,"Exploración de los puntos en la dirección -i, es decir, del ecuador al polo",,,,,,Operational
+Tabla de banderines 3.10 — Modo de exploración aplicado a un rombo,2,"Exploración de los puntos en la dirección +j, es decir, de oeste a este",,,,,,Operational
+Tabla de banderines 3.10 — Modo de exploración aplicado a un rombo,2,"Exploración de los puntos en la dirección -j, es decir, de este a oeste",,,,,,Operational
+Tabla de banderines 3.10 — Modo de exploración aplicado a un rombo,3,Los puntos adyacentes en la dirección i son consecutivos,,,,,,Operational
+Tabla de banderines 3.10 — Modo de exploración aplicado a un rombo,3,Los puntos adyacentes en la dirección j son consecutivos,,,,,,Operational
+Tabla de banderines 3.10 — Modo de exploración aplicado a un rombo,4-8,Reservados,,,,,,Operational

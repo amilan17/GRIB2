@@ -1,0 +1,19 @@
+Title_es,CodeFlag,MeaningParameterDescription_es,SubTitle_es,Value,Note_es,noteIDs,UnitComments_es,Status
+Tabla de banderines 3.4 — Modo de exploración,1,Exploración de los puntos de la primera línea o columna en la dirección +i (+x),,,,,,Operational
+Tabla de banderines 3.4 — Modo de exploración,1,Exploración de los puntos de la primera línea o columna en la dirección -i (-x),,,,,,Operational
+Tabla de banderines 3.4 — Modo de exploración,2,Exploración de los puntos de la primera línea o columna en la dirección -j (-y),,,,,,Operational
+Tabla de banderines 3.4 — Modo de exploración,2,Exploración de los puntos de la primera línea o columna en la dirección +j (+y),,,,,,Operational
+Tabla de banderines 3.4 — Modo de exploración,3,Los puntos adyacentes en la dirección i (x) son consecutivos,,,,,,Operational
+Tabla de banderines 3.4 — Modo de exploración,3,Los puntos adyacentes en la dirección j (y) son consecutivos,,,,,,Operational
+Tabla de banderines 3.4 — Modo de exploración,4,Exploración de todas las líneas en la misma dirección,,,,,,Operational
+Tabla de banderines 3.4 — Modo de exploración,4,Exploración de líneas adyacentes en la dirección opuesta,,,,,,Operational
+Tabla de banderines 3.4 — Modo de exploración,5,Los puntos de las líneas impares no se compensan en la dirección i (x),,,,,,Operational
+Tabla de banderines 3.4 — Modo de exploración,5,Los puntos de las líneas impares se compensan mediante Di/2 en la dirección i (x),,,,,,Operational
+Tabla de banderines 3.4 — Modo de exploración,6,Los puntos de las líneas pares no se compensan en la dirección i (x),,,,,,Operational
+Tabla de banderines 3.4 — Modo de exploración,6,Los puntos de las líneas pares se compensan mediante Di/2 en la dirección i (x),,,,,,Operational
+Tabla de banderines 3.4 — Modo de exploración,7,Los puntos no se compensan en la dirección j (y),,,,,,Operational
+Tabla de banderines 3.4 — Modo de exploración,7,Los puntos se compensan mediante Dj/2 en la dirección j (y),,,,,,Operational
+Tabla de banderines 3.4 — Modo de exploración,8,Las líneas tienen puntos de retícula Ni y las columnas tienen puntos de retícula Nj,,,,,,Operational
+Tabla de banderines 3.4 — Modo de exploración,8,"Las líneas tienen puntos de retícula Ni si los puntos no se compensan en la dirección i
+Las líneas tienen puntos de retícula Ni-1 si los puntos se compensan mediante Di/2 en la dirección i
+Las columnas tienen puntos de retícula Nj si los puntos no se compensan en la dirección j",,,,,,Operational

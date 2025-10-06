@@ -1,0 +1,45 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,0,,Visibilidad,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,1,,Albedo,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,2,,Probabilidad de tormentas,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,3,,Espesor de la capa de mezcla,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,4,,Ceniza volcánica,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,5,,Capa superior de formación de hielo,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,6,,Base de la formación de hielo,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,7,,Formación de hielo,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,8,,Capa superior de turbulencia,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,9,,Base de la turbulencia,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,10,,Turbulencia,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,11,,Energía cinética de la turbulencia,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,12,,Régimen de la capa límite planetaria,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,13,,Intensidad de la estela de condensación,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,14,,Estela de condensación atendiendo al tipo de reactor,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,15,,Capa superior de la estela de condensación,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,16,,Base de la estela de condensación,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,17,,Albedo de nieve máximo (véase la nota 1),,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,18,,Albedo exento de nieve,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,19,,Albedo de nieve,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,20,,Engelamiento,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,21,,Turbulencia en nube,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,22,,Turbulencia en aire claro (TAC),,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,23,,Probabilidad de gotitas de agua grandes subfundidas (véase la nota 2),,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,24,,Energía cinética turbulenta convectiva,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,25,,Estado del tiempo,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,26,,Previsión convectiva,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,27,,Escenario de engelamiento,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,28,,Turbulencias de ondas orográficas (velocidad de disipación de los remolinos),,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,29,,Turbulencia en aire claro (TAC),,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,30,,Parámetro de disipación de los remolinos (véase la nota 3),,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,31,,Máximo del parámetro de disipación de los remolinos en la capa,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,32,,Nivel máximo de congelación,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,33,,Visibilidad a través de niebla líquida,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,34,,visibilidad a través de niebla helada,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,35,,Visibilidad a través de ventisca de nieve,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,36,,Presencia de chubascos de nieve,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,37,,Severidad del engelamiento,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,38,,Índice de transparencia del cielo (véase la nota 4),,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,39,,Índice de visibilidad astronómica (seeing) (véase la nota 5),,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,40,,Nivel de la nieve,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,41-191,,Reservados,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,192-254,,Reservados para uso local,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 19: propiedades físicas de la atmósfera",,255,,Valor faltante,,,,Operational

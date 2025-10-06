@@ -1,0 +1,5 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 190: cadena de caracteres CCITT IA5",,0,,Cadena de texto arbitraria,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 190: cadena de caracteres CCITT IA5",,1-191,,Reservados,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 190: cadena de caracteres CCITT IA5",,192-254,,Reservados para uso local,,,,Operational
+"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 190: cadena de caracteres CCITT IA5",,255,,Valor faltante,,,,Operational
