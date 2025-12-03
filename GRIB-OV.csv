@@ -1,0 +1,60 @@
+﻿section_number,section_name,octet_no,contents
+0,Indicator section,1-4,GRIB (coded according to the International Alphabet No. 5)
+0,Indicator section,5-6,Reserved
+0,Indicator section,7,Discipline - GRIB Master table number (see Code table 0.0)
+0,Indicator section,8,GRIB edition number (currently 2)
+0,Indicator section,9-16,Total length of GRIB message in octets (including Section 0)
+1,Identification section,1-4,Length of section in octets (21 or nn)
+1,Identification section,5,Number of section (1)
+1,Identification section,6-7,Identification of originating/generating centre (see Common Code table C-11)
+1,Identification section,8-9,Identification of originating/generating subcentre (allocated by originating/ generating centre)
+1,Identification section,10,GRIB master table version number (see Common Code table C-0 and Note 1)
+1,Identification section,11,Version number of GRIB Local tables used to augment Master tables (see Code table 1.1 and Note 2)
+1,Identification section,12,Significance of reference time (see Code table 1.2)
+1,Identification section,13-14,Year (4 digits) (Reference time of data)
+1,Identification section,15,Month (Reference time of data)
+1,Identification section,16,Day (Reference time of data)
+1,Identification section,17,Hour (Reference time of data)
+1,Identification section,18,Minute (Reference time of data)
+1,Identification section,19,Second (Reference time of data)
+1,Identification section,20,Production status of processed data in this GRIB message (see Code table 1.3)
+1,Identification section,21,Type of processed data in this GRIB message (see Code table 1.4)
+1,Identification section,22-23,"Identification template number (optional, see Code table 1.5)"
+1,Identification section,24-nn,"Identification template (optional, see template 1.X, where X is the identification template number given in octets 22-23)"
+2,Local use section,1-4,Length of section in octets (nn)
+2,Local use section,5,Number of section (2)
+2,Local use section,6-nn,Local use
+3,Grid definition section,1-4,Length of section in octets (nn)
+3,Grid definition section,5,Number of section (3)
+3,Grid definition section,6,Source of grid definition (see Code table 3.0 and Note 1)
+3,Grid definition section,7-10,Number of data points
+3,Grid definition section,11,Number of octets for optional list of numbers (see Note 2)
+3,Grid definition section,12,Interpretation of list of numbers (see Code table 3.11)
+3,Grid definition section,13-14,Grid definition template number (= N) (see Code table 3.1)
+3,Grid definition section,15-xx,"Grid definition template (see template 3.N, where N is the grid definition template number given in octets 13-14)"
+3,Grid definition section,[xx+1]-nn,"Optional list of numbers defining number of points (see Notes 2, 3 and 4)"
+4,Product definition section,1-4,Length of section in octets (nn)
+4,Product definition section,5,Number of section (4)
+4,Product definition section,6-7,Number of coordinate values after template or number of information according to 3D vertical coordinate GRIB2 message (see Notes 1 and 5)
+4,Product definition section,8-9,Product definition template number (see Code table 4.0)
+4,Product definition section,10-xx,"Product definition template (see template 4.X, where X is the product definition template number given in octets 8-9)"
+4,Product definition section,[xx+1]-nn,"Optional list of coordinate values or vertical grid information (see Notes 2, 3, 4 and 5)"
+4,Product definition section,[xx+1] - [xx+4],Number of vertical levels
+4,Product definition section,[xx+5] - [xx+8],Identification number of 3D vertical grid GRIB2 message (defined by originating centre)
+4,Product definition section,[xx+9] - [xx+12],UUID part 1 of 4
+4,Product definition section,[xx+13] - [xx+16],UUID part 2 of 4
+4,Product definition section,[xx+17] - [xx+20],UUID part 3 of 4
+4,Product definition section,[xx+21] - [xx+24],UUID part 4 of 4
+5,Data representation section,1-4,Length of section in octets (nn)
+5,Data representation section,5,Number of section (5)
+5,Data representation section,6-9,"Number of data points where one or more values are specified in Section 7 when a bit map is present, total number of data points when a bit map is absent."
+5,Data representation section,10-11,Data representation template number (see Code table 5.0)
+5,Data representation section,12-nn,"Data representation template (see template 5.X, where X is the data representation template number given in octets 10–11)"
+6,Bit-map section,1-4,Length of section in octets (nn)
+6,Bit-map section,5,Number of section (6)
+6,Bit-map section,6,Bit-map indicator (see Code table 6.0 and the Note)
+6,Bit-map section,7-nn,"Bit-map - Contiguous bits with a bit to data point correspondence, ordered as defined in Section 3. A bit set to 1 implies the presence of a data value at the corresponding data point, whereas a value of 0 implies the absence of such a value."
+7,Data section,1-4,Length of section in octets (nn)
+7,Data section,5,Number of section (7)
+7,Data section,6-nn,"Data in a format described by data template 7.X, where X is the data representation template number given in octets 10-11 of Section 5."
+8,End section,1-4,"""7777"" (coded according to the International Alphabet No. 5)"

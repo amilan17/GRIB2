@@ -18,4 +18,4 @@ Modèle de définition de la grille 3.40 — Grille gaussienne latitude/longitud
 Modèle de définition de la grille 3.40 — Grille gaussienne latitude/longitude,64-67,,Di - incrément de la direction i,(voir les notes 1 et 5),,,,Operational
 Modèle de définition de la grille 3.40 — Grille gaussienne latitude/longitude,68-71,,N - nombre de parallèles entre un pôle et l'équateur,(voir la note 2),,,,Operational
 Modèle de définition de la grille 3.40 — Grille gaussienne latitude/longitude,72,,Mode d'exploration,(indicateurs – voir la table d'indicateurs 3.4),,,,Operational
-Modèle de définition de la grille 3.40 — Grille gaussienne latitude/longitude,73-nn,,Liste de nombre de points le long de chaque méridien ou parallèle (ces octets ne s'appliquent qu'aux grilles quasi régulières dont il est question dans la note 4),,,,,Operational
+Modèle de définition de la grille 3.40 — Grille gaussienne latitude/longitude,73-nn,,Liste de nombre de points le long de chaque méridien ou parallèle,(ces octets ne s'appliquent qu'aux grilles quasi régulières dont il est question dans la note 4),,,,Operational

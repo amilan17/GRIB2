@@ -18,4 +18,4 @@ Modèle de définition de la grille 3.10 — Projection de Mercator,60,,Mode d'e
 Modèle de définition de la grille 3.10 — Projection de Mercator,61-64,,"Orientation de la grille, angle entre la direction i sur la carte et l'équateur",(voir la note 1),,,,Operational
 Modèle de définition de la grille 3.10 — Projection de Mercator,65-68,,Di - longueur de grille dans le sens de la longitude,(voir la note 2),,,,Operational
 Modèle de définition de la grille 3.10 — Projection de Mercator,69-72,,Dj - longueur de grille dans le sens de la latitude,(voir la note 2),,,,Operational
-Modèle de définition de la grille 3.10 — Projection de Mercator,73-nn,,Liste de nombre de points le long de chaque méridien ou parallèle (ces octets ne s'appliquent qu'aux grilles quasi régulières dont il est question dans les notes 2 et 3 du modèle de définition de la grille 3.1),,,,,Operational
+Modèle de définition de la grille 3.10 — Projection de Mercator,73-nn,,Liste de nombre de points le long de chaque méridien ou parallèle,(ces octets ne s'appliquent qu'aux grilles quasi régulières dont il est question dans les notes 2 et 3 du modèle de définition de la grille 3.1),,,,Operational
