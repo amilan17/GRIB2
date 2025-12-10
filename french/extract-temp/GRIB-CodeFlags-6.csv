@@ -1,5 +1,0 @@
-﻿TABLE TITLE,CHIFFRE DU CODE,NUMÉRO DE BIT,VALEUR,SIGNIFICATION,REMARQUES,UNITÉ
-Table de code 6.0 — Indicateur de table binaire,0,,,Une table binaire s'applique à ce produit; elle est précisée dans cette section,,
-Table de code 6.0 — Indicateur de table binaire,1–253,,,Une table binaire établie par le centre d'origine/de production s'applique à ce produit; elle n'est pas précisée dans cette section,,
-Table de code 6.0 — Indicateur de table binaire,254,,,Une table binaire préalablement définie dans le même message GRIB s'applique à ce produit,,
-Table de code 6.0 — Indicateur de table binaire,255,,,Aucune table binaire ne s'applique à ce produit,,
